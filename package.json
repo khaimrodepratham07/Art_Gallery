@@ -1,0 +1,11 @@
+{
+  "name": "pskarts07",
+  "version": "1.0.0",
+  "description": "PSK Arts Portfolio Gallery",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve ."
+  },
+  "author": "Pratham Khairmode",
+  "license": "ISC"
+} 
